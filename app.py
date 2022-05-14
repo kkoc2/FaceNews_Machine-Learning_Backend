@@ -33,7 +33,7 @@ random.seed(0)
 np.random.seed(0)
 
 def read_DB():
-    db_connection = sql.connect(host='localhost', database='ym491', user='root', password='NurullahOzdemir1234====')
+    db_connection = sql.connect(host='localhost', database='ym491', user='root', password='yyy')
     db_cursor = db_connection.cursor()
     db_cursor.execute('SELECT * FROM news')
     table_rows = db_cursor.fetchall()
