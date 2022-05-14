@@ -1,4 +1,4 @@
-# YM-491-Backend
+# FaceNews_Machine-Learning_Backend
 
 app.py dosyası flask serverda calistirilacak backend script'idir.
 
